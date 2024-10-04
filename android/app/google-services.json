@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941774624468",
+    "project_id": "mthorlikonda-cmsc5303-fl-3eb4a",
+    "storage_bucket": "mthorlikonda-cmsc5303-fl-3eb4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941774624468:android:4663530887df2db74ccd41",
+        "android_client_info": {
+          "package_name": "edu.uco.mthorlikonda.cmsc5303.lesson6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf-mtEVEsGRQRdGNZjMMavPjMIYtDhHUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
