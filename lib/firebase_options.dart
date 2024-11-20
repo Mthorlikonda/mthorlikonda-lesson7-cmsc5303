@@ -52,15 +52,15 @@ class DefaultFirebaseOptions {
     messagingSenderId: '941774624468',
     projectId: 'mthorlikonda-cmsc5303-fl-3eb4a',
     authDomain: 'mthorlikonda-cmsc5303-fl-3eb4a.firebaseapp.com',
-    storageBucket: 'mthorlikonda-cmsc5303-fl-3eb4a.appspot.com',
+    storageBucket: 'mthorlikonda-cmsc5303-fl-3eb4a.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBf-mtEVEsGRQRdGNZjMMavPjMIYtDhHUI',
-    appId: '1:941774624468:android:4663530887df2db74ccd41',
+    appId: '1:941774624468:android:21206ef1f496fbee4ccd41',
     messagingSenderId: '941774624468',
     projectId: 'mthorlikonda-cmsc5303-fl-3eb4a',
-    storageBucket: 'mthorlikonda-cmsc5303-fl-3eb4a.appspot.com',
+    storageBucket: 'mthorlikonda-cmsc5303-fl-3eb4a.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
     appId: '1:941774624468:ios:c481a1fefdd298d84ccd41',
     messagingSenderId: '941774624468',
     projectId: 'mthorlikonda-cmsc5303-fl-3eb4a',
-    storageBucket: 'mthorlikonda-cmsc5303-fl-3eb4a.appspot.com',
+    storageBucket: 'mthorlikonda-cmsc5303-fl-3eb4a.firebasestorage.app',
     iosBundleId: 'edu.uco.mthorlikonda.cmsc5303.lesson6',
   );
 
